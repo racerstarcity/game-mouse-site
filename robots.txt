@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://racerstarcity.github.io/game-mouse-site/sitemap.xml
